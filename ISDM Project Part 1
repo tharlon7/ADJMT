@@ -1,0 +1,111 @@
+1. Problem definition: Objectives, List of Stakeholders
+Assumptions:
+CMC workers who work under RMs take calls
+Rms have a database of numbers and make calls from that 
+Non-functional requirements of systems are all assumed 
+POV statements, hmw statements and empathy maps are all assumed 
+
+Problem Definition: 
+The Relationship Managers (RMs) for a major travel company perform sales of holiday packages for their customers. However, the system operation is complicated by the varying number and nature of these holiday packages. Call routing and flow control are also not adjusted to RMs skills and customers profiles, making the process of selling holiday packages inefficient. 
+Objectives: 
+Develop an information system to improve the operation of the major travel company’s in-house call management centre (CMC). 
+For the outbound calls, the system will create a target list for each RM based on their skills and profile. 
+For inbound calls, the system will connect end-customers to RMs through matching techniques.
+Increase the sales of holiday packages 
+Increase customer satisfaction 
+Increase RMs satisfaction 
+Stakeholders: 
+Travel Company Owner (client)
+Scrum Team? - in charge of creating the system for the client 
+Testing team? 
+CMC workers 
+Relationship Managers 
+Inbound End-customers (Customers who call the travel company )
+Outbound End-customers (Customers that the Relationship managers call)
+
+POV statement for each stakeholder 
+Person [needs] _____ [because] ____
+Travel Company Owner
+POV: The travel company owner is missing out on increasing his company’s profits, due to having an inefficient system for connecting his RMS to potential customers.
+HMW: Develop an information system to improve the operation of their in-house call management centre.
+
+Relationship Managers
+POV: RMs, who are potentially missing sales opportunities, need to speak to the most suitable customers, because they will be more likely to make a sale.
+HMW: HMW improve the process for RMs to connect with more appropriate potential customers
+
+
+Inbound End-customers 
+POV: Inbound end-customers, calling the travel company, are speaking to relationship managers, who are not the most suitable for satisfying their needs.
+HMW: HMW match customers to the most suitable relationship managers
+HMW: HMW reduce waiting times or delays for inbound customers
+
+Outbound End-Customers
+POV: 
+Outbound end-customers are receiving calls from RMS, who are suggesting them to purchase holiday packages that they have no interest in buying. 
+HMW: Direct calls from relationship managers to customers who are more likely to want to purchase holiday packages 
+HMW: HMW match appropriate Rms with the right skill-sets to outbound end-customers 
+
+
+
+
+
+Empathy Map for each stakeholder:
+Travel Company Owner- 
+1.Owner, He wants to make changes in the system, he wants the sale in the holiday packages to increase, he is the decision-maker or can implement the changes in the system.
+2. If the sales increase we can know he was successful, he needs to know what the customers say and make the changes accordingly.
+3. They can see their own package sale and compare it with their competitors, they can train the managers with the new program. 
+4.make advertisement to promote the system.
+5.
+6. They hear the benefits from using the new system and also hear issues and problems they can face.
+7. Pain- The investment will be a total loss, it will take time to get familiar with the system
+https://imgur.com/a/WeYDk3y
+Gains- Better value, more sales
+
+
+Relationship managers
+
+
+Inbound Customer
+Think and Feel 
+Where should I go for my next holiday?
+Which travel company should I call to purchase a holiday package?
+Will I be speaking to someone who is professional and will help fulfil my needs?
+See
+They can see advertisements from the travel company regarding holiday packages
+Say & Do 
+Inbound customers call the travel company in the hopes of finding the best deal for a holiday packages
+Depending on the service they receive, they can have a positive or negative attitude towards the travel company 
+Depending on the service they receive, they can relay their calling experience to their friends and family as either nice or unpleasant
+Hear
+Inbound customers will be able to hear RMs try to cater to their needs and offer various holiday packages
+They can hear feedback from friends and family who have dealt with the travel company before
+Pain
+It is possible for Inbound customers to speak to a RM who is not well suited to cater to their needs
+They can feel that their time was wasted
+They can feel like they wished to have spoken to a different RM or to have called a different travel company 
+They can be anxious about not having their desired holiday
+Gain
+Being able to speak to a suitable and professional RM to help them with their needs
+Finding a good value deal on a holiday package
+To be able to have a fun and exciting holiday 
+Outbound Customer
+Think & Feel 
+Do I want to purchase a holiday package?
+Are their better deals for holiday packages from other companies? 
+See
+Outbound customers are able to see advertisements for holiday packages from various travel companies
+Say & Do 
+Outbound customers receive calls from Rms in regards to holiday packages
+Depending on the Rms convincing skills and the needs of the customer, outbound customers may or may not purchase a holiday package
+Depending on the outcome of the call, outbound customers can have a favourable or unfavourable attitude towards the travel company
+Hear
+Outbound customers will be able to hear RMs try to convince them on buying a holiday package
+They will be able to hear either positive or negative feedback from friends and family who have previously dealt with the travel company 
+Pain
+Outbound customers can have no interest in purchasing holiday packages and be annoyed by calls from RMs 
+Outbound customers can feel that they can find better value on holiday packages elsewhere or with another company
+They can feel like the calls are spam 
+Gain
+They are able to receive a good package deal from 
+
+
