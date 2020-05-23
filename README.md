@@ -1,2 +1,0 @@
-# ADJMT
-Testing commit
