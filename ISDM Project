@@ -5,7 +5,7 @@ Rms have a database of numbers and make calls from that
 Non-functional requirements of systems are all assumed 
 POV statements, hmw statements and empathy maps are all assumed 
 
-Problem Definition: 
+## Problem Definition: 
 The Relationship Managers (RMs) for a major travel company perform sales of holiday packages for their customers. However, the system operation is complicated by the varying number and nature of these holiday packages. Call routing and flow control are also not adjusted to RMs skills and customers profiles, making the process of selling holiday packages inefficient. 
 Objectives: 
 Develop an information system to improve the operation of the major travel company’s in-house call management centre (CMC). 
@@ -14,7 +14,8 @@ For inbound calls, the system will connect end-customers to RMs through matching
 Increase the sales of holiday packages 
 Increase customer satisfaction 
 Increase RMs satisfaction 
-Stakeholders: 
+
+## Stakeholders: 
 Travel Company Owner (client)
 Scrum Team? - in charge of creating the system for the client 
 Testing team? 
@@ -23,23 +24,23 @@ Relationship Managers
 Inbound End-customers (Customers who call the travel company )
 Outbound End-customers (Customers that the Relationship managers call)
 
-POV statement for each stakeholder 
+## POV statement for each stakeholder 
 Person [needs] _____ [because] ____
 Travel Company Owner
 POV: The travel company owner is missing out on increasing his company’s profits, due to having an inefficient system for connecting his RMS to potential customers.
 HMW: Develop an information system to improve the operation of their in-house call management centre.
 
-Relationship Managers
+### Relationship Managers
 POV: RMs, who are potentially missing sales opportunities, need to speak to the most suitable customers, because they will be more likely to make a sale.
 HMW: HMW improve the process for RMs to connect with more appropriate potential customers
 
 
-Inbound End-customers 
+### Inbound End-customers 
 POV: Inbound end-customers, calling the travel company, are speaking to relationship managers, who are not the most suitable for satisfying their needs.
 HMW: HMW match customers to the most suitable relationship managers
 HMW: HMW reduce waiting times or delays for inbound customers
 
-Outbound End-Customers
+### Outbound End-Customers
 POV: 
 Outbound end-customers are receiving calls from RMS, who are suggesting them to purchase holiday packages that they have no interest in buying. 
 HMW: Direct calls from relationship managers to customers who are more likely to want to purchase holiday packages 
@@ -49,7 +50,7 @@ HMW: HMW match appropriate Rms with the right skill-sets to outbound end-custome
 
 
 
-Empathy Map for each stakeholder:
+## Empathy Map for each stakeholder:
 Travel Company Owner- 
 1.Owner, He wants to make changes in the system, he wants the sale in the holiday packages to increase, he is the decision-maker or can implement the changes in the system.
 2. If the sales increase we can know he was successful, he needs to know what the customers say and make the changes accordingly.
