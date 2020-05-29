@@ -1,154 +1,257 @@
-# 1. Problem definition: Objectives, List of Stakeholders
-Assumptions:
-CMC workers who work under RMs take calls
-Rms have a database of numbers and make calls from that 
-Non-functional requirements of systems are all assumed 
-POV statements, hmw statements and empathy maps are all assumed 
+# **IS Development Methodologies – 31257 Autumn 2020 Project**
 
-## Problem Definition: 
-The Relationship Managers (RMs) for a major travel company perform sales of holiday packages for their customers. However, the system operation is complicated by the varying number and nature of these holiday packages. Call routing and flow control are also not adjusted to RMs skills and customers profiles, making the process of selling holiday packages inefficient. 
-Objectives: 
-Develop an information system to improve the operation of the major travel company’s in-house call management centre (CMC). 
-For the outbound calls, the system will create a target list for each RM based on their skills and profile. 
-For inbound calls, the system will connect end-customers to RMs through matching techniques.
-Increase the sales of holiday packages 
-Increase customer satisfaction 
-Increase RMs satisfaction 
+Tharlon Khinzaw – 98131535
 
-## Stakeholders: 
-Travel Company Owner (client)
-Scrum Team? - in charge of creating the system for the client 
-Testing team? 
-CMC workers 
-Relationship Managers 
-Inbound End-customers (Customers who call the travel company )
-Outbound End-customers (Customers that the Relationship managers call)
+Arvin Reyes – 13208323
 
-## POV statement for each stakeholder 
-Person [needs] _____ [because] ____
-Travel Company Owner
-POV: The travel company owner is missing out on increasing his company’s profits, due to having an inefficient system for connecting his RMS to potential customers.
-HMW: Develop an information system to improve the operation of their in-house call management centre.
+David Nguyen ­– 13254800
+
+Jannatul Naim Apon – 13122383
+
+Mohammed Alvi – 12736195
+
+Main body word count: 1912
+
+#
+## **Table of Contents**
+
+[Executive summary 3](#_Toc41524599)
+
+[Problem definition 3](#_Toc41524600)
+
+[Objectives 3](#_Toc41524601)
+
+[Stakeholders 4](#_Toc41524602)
+
+[Empathy maps 5](#_Toc41524603)
+
+[POV statements 9](#_Toc41524604)
+
+[Travel Company Owner 9](#_Toc41524605)
+
+[Relationship Managers 9](#_Toc41524606)
+
+[Inbound End-customers 9](#_Toc41524607)
+
+[Outbound End-Customers 9](#_Toc41524608)
+
+[Design thinking approach 9](#_Toc41524609)
+
+[Reflection 9](#_Toc41524610)
+
+[Travel Company Owner 9](#_Toc41524611)
+
+[Relationship Managers 9](#_Toc41524612)
+
+[Inbound End-customers 9](#_Toc41524613)
+
+[Outbound End-Customers 9](#_Toc41524614)
+
+[Prioritised backlog 10](#_Toc41524615)
+
+[Functional Requirements 10](#_Toc41524616)
+
+[Non-functional Requirements 10](#_Toc41524617)
+
+[User stories 10](#_Toc41524618)
+
+[Work products, models, and descriptions 11](#_Toc41524619)
+
+[Use case diagrams 11](#_Toc41524620)
+
+[Activity diagrams 12](#_Toc41524621)
+
+[Class diagram 14](#_Toc41524622)
+
+[Collaborative diagram 15](#_Toc41524623)
+
+[Competitive advantages and possible effects of project failure 15](#_Toc41524624)
+
+[Competitive Advantages 15](#_Toc41524625)
+
+[Possible Effects if the Project Fails 16](#_Toc41524626)
+
+[References 16](#_Toc41524627)
+
+#
+## **Executive Summary**
+
+A major travel company would like to develop an information system to improve the operation of its in-house call management centre (CMC). This report is divided into four distinct sections: 1. Problem Definition 2. Design Thinking Approach, 3. Work Products, Models, and Descriptions, and 4. Competitive Advantages and Possible Effects of Project Failure.
+
+The report commences with the Problem Definition, which outlines the problems of the current system and why there is a need for a new system. This section also lists numerous objectives of the project, such as: increasing the number of sales of holiday packages and improving customer satisfaction. A list of stakeholders that will affect or be affected by the system is also conveyed. This section of the report will also state the assumptions our team has made for the project. These assumptions are then used to create POV statements for each of the stakeholders involved, as well as empathy maps.
+
+The second section of the report is Design Thinking Approach. This section contains a reflection which states further assumptions made for the project which include brainstormed ideas and the formation of HMW statements. A backlog is then created listing the functional and non-functional requirements for the new system as well as user stories for all the stakeholders.
+
+The user stories are then used to create use cases in the Work Products, Models, and descriptions part of the report. The use cases are then implemented to create a use case diagram for the proposed system. This is then used to create an activity diagram. The activity diagram is then used to create class and collaboration diagram for the new system.
+
+The report is concluded with the Competitive Advantages section. It outlines the possible competitive advantages that the Travel Company can obtain if the proposed system is successful. These include a more efficient allocation of resources and time, as well as increasing customer satisfaction which is integral for many businesses in contemporary society. This section also denotes several possible adverse effects if the project fails, namely the high cost involved with a project of this magnitude and the possibility of customer&#39;s switching to another travel company if their needs are not satisfied.
+
+#
+## **Problem Definition**
+
+The Relationship Managers (RMs) for a major travel company perform sales of holiday packages for their customers. However, the system operation is complicated by the varying number and nature of these holiday packages. Under the current system, call routing and flow control are also not adjusted to RMs skills and customers profiles, making the process of selling holiday packages inefficient.
+
+## Objectives
+
+1. Develop an information system to improve the operation of the major travel company&#39;s in-house call management centre (CMC).
+2. For the outbound calls, the system will create a target list for each RM based on their skills and profile.
+3. For inbound calls, the system will connect end-customers to RMs through matching techniques.
+4. Increase the sales of holiday packages
+5. Increase customer satisfaction
+6. Increase RMs satisfaction
+
+## Stakeholders
+
+1. Travel Company Owner (client)
+2. Relationship Managers
+3. Inbound End-customers (Customers who call the travel company)
+4. Outbound End-customers (Customers that the Relationship managers call)
+
+## Empathy Maps
+
+![Travel company owner](https://github.com/tharlon7/ADJMT/blob/master/Empathy%20maps/Travel%20company%20owner.png?raw=true)
+
+**Relationship managers**
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Empathy%20maps/HD-empathy-map-for-RM.png?raw=true)
+
+##
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Empathy%20maps/Inbound%20customer.png?raw=true)
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Empathy%20maps/Outbound%20customer.png?raw=true)
+
+## POV Statements
+
+### Travel Company Owner
+
+**POV** : The travel company owner is missing out on increasing his company&#39;s profits, due to having an inefficient system for connecting his RMS to potential customers.
 
 ### Relationship Managers
-POV: RMs, who are potentially missing sales opportunities, need to speak to the most suitable customers, because they will be more likely to make a sale.
+
+**POV** : RMs, who are potentially missing sales opportunities, need to speak to the most suitable customers because they will be more likely to make a sale.
+
+### Inbound End-customers
+
+**POV** : Inbound end-customers, calling the travel company, are speaking to relationship managers, who are not the most suitable for satisfying their needs.
+
+### Outbound End-Customers
+
+**POV** : Outbound end-customers are receiving calls from RMS, who are suggesting them to purchase holiday packages that they have no interest in buying.
+
+#
+## **Design Thinking Approach**
+
+## Reflection
+
+In this section of the Design Thinking Approach, a reflection is created which outlines the assumptions and brainstormed ideas that our team has developed that were not made explicit in the assignment description. It is assumed that under the previous system, there are CMC telephone operatives who work under RMs. Their role is to take on customers calls and then depending on the nature of the call, direct the call to an appropriate RM if needed. It is also assumed that in the previous system, RMs have a database of numbers to make outbound calls from; however, they are cold calls to new potential customers. The functional requirements for the proposed system have been detailed in the project description and have been made clear by our team. However, non-functional requirements need to be assumed. The POV statements from the previous section are also used to assume How Might We (HMW) statements for each of the stakeholders involved. This is detailed below:
+
+### Travel Company Owner
+
+HMW: Develop an information system to improve the operation of its in-house call management centre.
+
+### Relationship Managers
+
 HMW: HMW improve the process for RMs to connect with more appropriate potential customers
 
+### Inbound End-customers
 
-### Inbound End-customers 
-POV: Inbound end-customers, calling the travel company, are speaking to relationship managers, who are not the most suitable for satisfying their needs.
 HMW: HMW match customers to the most suitable relationship managers
+
 HMW: HMW reduce waiting times or delays for inbound customers
 
 ### Outbound End-Customers
-POV: 
-Outbound end-customers are receiving calls from RMS, who are suggesting them to purchase holiday packages that they have no interest in buying. 
-HMW: Direct calls from relationship managers to customers who are more likely to want to purchase holiday packages 
-HMW: HMW match appropriate Rms with the right skill-sets to outbound end-customers 
 
+HMW: Direct calls from relationship managers to customers who are more likely to want to purchase holiday packages
 
+HMW: HMW match appropriate Rms with the right skill-sets to outbound end-customers
 
+## Prioritised Backlog
 
+The backlog contains the functional and non-functional requirements for the proposed system as well as user stories for each of the stakeholders
 
-## Empathy Map for each stakeholder:
-Travel Company Owner- 
-1.Owner, He wants to make changes in the system, he wants the sale in the holiday packages to increase, he is the decision-maker or can implement the changes in the system.
-2. If the sales increase we can know he was successful, he needs to know what the customers say and make the changes accordingly.
-3. They can see their own package sale and compare it with their competitors, they can train the managers with the new program. 
-4.make advertisement to promote the system.
-5.
-6. They hear the benefits from using the new system and also hear issues and problems they can face.
-7. Pain- The investment will be a total loss, it will take time to get familiar with the system
-https://imgur.com/a/WeYDk3y
-Gains- Better value, more sales
+### Functional Requirements
 
+1. The system shall adjust the call flow rate to suitable RMs
+2. The system shall match Rms and end-customers according to Rms skills and customer profiles
+3. The system shall match customers based on RM performance and product knowledge
+4. The system shall build a profile and skill matrix
+5. The system shall adjust according to RMs subsequent performance in selling packages and in serving customers effectively and efficiently.
+6. The system shall dial numbers automatically according to a customer target list generated by the system
+7. The system shall retrieve customers details from a database
+8. The system shall display the details and provides the RM with guidelines and a script to help in providing an improved service to the end-customer
+9. For the outbound calls, the system shall create a target list for each RM based on their skills and profile.
+10. For inbound calls, the system shall use a call routing and distribution routine to minimise inbound call costs.
+11. The system shall calculate a skill score based on the RM&#39;s previous call duration and profile
+12. The system shall use preloaded customer data to score inbound customers out of 10 based on their likelihood to purchase the product.
+13. The system shall connect customers with the highest scores first with RMs
+14. During busy times, the system shall direct inbound customers to an Interactive Voice Response unit prompting them for options, and ask for call reasons in a few words and then redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM
 
-Relationship managers
+### Non-functional Requirements
 
+1. The user interface for RMs shall be simple to use and easy to navigate through
+2. Information that is entered by the RM shall be stored on a secured server
+3. Navigating through customer profile pages shall load a display within 5 seconds at least 97% of the time
+4. Every unsuccessful attempt by an RM to login to the system shall be recorded and after a third failed attempt the RM will be locked out from the system and will not be able to log in for another 3 hours.
 
-Inbound Customer
-Think and Feel 
-Where should I go for my next holiday?
-Which travel company should I call to purchase a holiday package?
-Will I be speaking to someone who is professional and will help fulfil my needs?
-See
-They can see advertisements from the travel company regarding holiday packages
-Say & Do 
-Inbound customers call the travel company in the hopes of finding the best deal for a holiday packages
-Depending on the service they receive, they can have a positive or negative attitude towards the travel company 
-Depending on the service they receive, they can relay their calling experience to their friends and family as either nice or unpleasant
-Hear
-Inbound customers will be able to hear RMs try to cater to their needs and offer various holiday packages
-They can hear feedback from friends and family who have dealt with the travel company before
-Pain
-It is possible for Inbound customers to speak to a RM who is not well suited to cater to their needs
-They can feel that their time was wasted
-They can feel like they wished to have spoken to a different RM or to have called a different travel company 
-They can be anxious about not having their desired holiday
-Gain
-Being able to speak to a suitable and professional RM to help them with their needs
-Finding a good value deal on a holiday package
-To be able to have a fun and exciting holiday 
-Outbound Customer
-Think & Feel 
-Do I want to purchase a holiday package?
-Are their better deals for holiday packages from other companies? 
-See
-Outbound customers are able to see advertisements for holiday packages from various travel companies
-Say & Do 
-Outbound customers receive calls from Rms in regards to holiday packages
-Depending on the Rms convincing skills and the needs of the customer, outbound customers may or may not purchase a holiday package
-Depending on the outcome of the call, outbound customers can have a favourable or unfavourable attitude towards the travel company
-Hear
-Outbound customers will be able to hear RMs try to convince them on buying a holiday package
-They will be able to hear either positive or negative feedback from friends and family who have previously dealt with the travel company 
-Pain
-Outbound customers can have no interest in purchasing holiday packages and be annoyed by calls from RMs 
-Outbound customers can feel that they can find better value on holiday packages elsewhere or with another company
-They can feel like the calls are spam 
-Gain
-They are able to receive a good package deal from 
+## User Stories
 
-Backlog 
-Functional Requirements `
-The system shall adjust the call flow rate to suitable RMs
-The system shall match Rms and end-customers according to Rms skills and customer profiles
-The system shall match customers based on RM performance and product knowledge
-The system shall build a profile and skill matrix
-The system shall adjust according to RMs subsequent performance in selling packages and in serving customers effectively and efficiently.
-The system shall dial numbers automatically according to a customer target list generated by the system
-The system shall retrieve customers details from a database
-The system shall display the details and provides the RM with guidelines and a script to help in providing an improved service to the end-customer
-For the outbound calls, the system shall create a target list for each RM based on their skills and profile.
-For inbound calls, the system shall use a call routing and distribution routine to minimise inbound call costs.
-The system shall calculate a skill score based on the RM’s previous call duration and profile
-The system shall use preloaded customer data to score inbound customers out of 10 based on their likelihood to purchase the product.
-The system shall connect customers with the highest scores first with RMs
-During busy times, the system shall direct inbound customers to an Interactive Voice Response unit prompting them for options, and ask for call reasons in a few words and then redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM
-Non-functional Requirements
-The user interface for RMs shall be simple to use and easy to navigate through
-Information that is entered by the RM shall be stored on a secured server
-Navigating through customer profile pages shall load a display within 5 seconds at least 97% of the time 
-Every unsuccessful attempt by a RM to login to the system shall be recorded and after a third failed attempt the RM will be locked out from the system and will not be able to log in for another 3 hours.
+- As a Travel Company Owner, I want the sales of holiday packages to increase So that the company&#39;s profits will increase
+- As an inbound customer, I want to speak to the most suitable RMs, so that I can conveniently find the best value holiday package.
+- As an inbound customer, I want to connect to an RM as fast as possible, so that I can be served promptly.
+- As an outbound, I want to speak to the most suitable RMs So that I can have improved customer service.
+- As a relationship manager, I want to connect with the most suitable customer, so that I can effectively meet the needs of the customer and make a sale.
+- As a relationship manager, I want an interactive voice response system so that customers can get redirected once I am available to answer.
+- As a relationship manager, I want to connect with customers easier so that I can find matching customers that are more willing to travel.
 
-User stories 
-As a <role>,  
-I want <goal/desire>  
-so that <benefit>
-[As a Travel Company Owner] [I want the sales of holiday packages to increase] [So that the company’s profits will increase]
-[As a relationship manager] [I want improved call routing and dynamic call flow control for inbound and outbound calls] [So that I can increase sales of holiday packages]
-[As an end-customer] (inbound)[I want to speak to the most suitable RMs] [So that I can conveniently find the best value holiday package]
-[As an end-customer (outbound)] [I want to speak to the most suitable RMs] [So that I can have improved customer service] 
-BACKLOG section 
-[As a relationship manager] [I want to connect with the most suitable customer][So that I can effectively meet the needs of the customer and make a sale]
-[As an inbound customer][I want to connect to an RM as fast as possible][So that I can be served promptly]
-As a relationship manager I want an interactive voice response system so that customers can get redirected once i am available to answer.
-As a relationship manager i want a customer profiler tool so that i can find matching customers that are more willing to travel.
-As a relationship manager I want the customers to give me feedback and get connected to the same customer in the future. 
-As a Travel Company Owner I want the Scrum Team to develop an efficient system so that RMs can make more sales and hence increase the company’s profits. 
-Owner wants development team to make stem to…
-As a Scrum team I want to develop and build an efficient system  so that I can make the travel company owner (client) happy.
-As a Relationship Managers I want a more efficient call system because the current system is slow and inefficient and it allows for more targeted calls to customers so that i can increase sales
+#
+## **Work Products, Models, and Descriptions**
 
+## Use Case Diagrams
 
+#### Overall System:
 
+![](https://github.com/tharlon7/ADJMT/blob/master/Folder%20for%20workproducts%20and%20models/Use%20case%20diagram%20%22inbound%20and%20outbound%22.png?raw=true)
+
+## Activity Diagrams
+
+#### For use case &quot;Call a customer&quot;:
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Folder%20for%20workproducts%20and%20models/Outbound%20customer%20Activity%20diagram%20by%20Arvin.png?raw=true)
+
+#### For use case &quot;call travel company&quot;:
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Folder%20for%20workproducts%20and%20models/Use%20Case%20Diagram%20Inbound%20Customer.png?raw=true)
+
+## Class Diagram
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Folder%20for%20workproducts%20and%20models/Class%20diagram%20final%20iteration%20by%20Arvin.png?raw=true)
+
+## Collaborative diagram
+
+![](https://github.com/tharlon7/ADJMT/blob/master/Folder%20for%20workproducts%20and%20models/Collaborative%20diagram%20Final%20iteration%20By%20Arvin.png?raw=true)
+
+# **Competitive Advantages and Possible Effects of Project Failure**
+
+## Competitive Advantages
+
+The successful development of the proposed information system can result in numerous competitive advantages for the Travel Company. In targeting potential buyers with outbound calls, the proposed system will dial numbers automatically according to a customer target list generated by the system. The system retrieves customers&#39; details from a database. It then displays the details and provides the RM with guidelines and a script to help in providing an improved service to the end-customer. As such, RMs can carry out more effective calls with a higher success rate of creating sales. This is much more effective when compared to cold-calling customers, which was the method used for the old system. Thus, the Travel Company can achieve a strong competitive advantage when using the proposed system.
+
+For Inbound calls under the proposed system, customers dial a number reaching the CMC which has its own private automatic branch exchange to route the calls. Due to this process, the Travel company can minimise inbound calls costs by reducing per-call handling time, hence creating another competitive advantage for the Travel Company. For inbound calls, the proposed system will also serve customers with a higher score first (more likely to purchase a holiday package) and match them with the most appropriate RMs. This has two key benefits for the Travel Company. Firstly, RMs can increase their chance of selling holiday packages. Secondly, by matching the most suitable RMs to customers, the proposed system allows RMs to better service customer needs. Customer satisfaction is becoming increasingly crucial for businesses in contemporary society. During busy times, inbound customers under the proposed system can be directed to an Interactive Voice Response unit prompting them for options, and then direct the call to an Automatic Call Distributor routing the call to the first available appropriate RM. As such, the Travel Company can further increase savings due to reduced staffing costs. It has been previously assumed that in the old system there are CMC telephone operatives who work under the RM. However, with the new system, their role will now become automated, thus making them redundant.
+
+In essence, the proposed system allows for a more efficient allocation of resources, improved time management, improved customer satisfaction, and reduced staffing costs. This creates multiple competitive advantages and can be extremely beneficial to the Travel Company.
+
+## Possible Effects if the Project Fails
+
+Although the proposed system has numerous potential advantages for the Travel Company, there can be very adverse effects if the project fails. Firstly, a system of this magnitude will be costly, and an appropriate budget and financial layout are necessary to make ends meet. Also, it is imperative that proper testing at various phases of the project life-cycle is conducted to ensure the usability of the system. Furthermore, if the system is not properly implemented, RMs can have trouble adjusting to the new system, potentially decreasing the amount of holiday package sales. If the project fails, customers may have preferred the old system and feel that their needs are not adequately satisfied by the Travel Company. This can lead to a negative image for the business and result in customers switching to another travel company.
+
+#
+## **References**
+
+Anon, n.d., Study.com. viewed 28 May 2020, \&lt;https://study.com/academy/lesson/what-is-a-use-case-definition-examples.html\&gt;.
+
+explainagile.com 2019, explainagile.com. viewed 28 May 2020, \&lt;https://explainagile.com/blog/your-developers-are-stakeholders/\&gt;.
+
+UML, S. 2016, System Stakeholders - SYSTEM ANALYSIS AND DESIGN WITH UML, Studentstechlife.blogspot.com. viewed 28 May 2020, \&lt;https://studentstechlife.blogspot.com/2016/11/system-stakeholders-system-analysis-and.html\&gt;.
+
+What is a Backlog? | Definition, Overview, and Purpose n.d., Productplan.com. viewed 28 May 2020, \&lt;https://www.productplan.com/glossary/backlog/\&gt;.
