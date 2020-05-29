@@ -144,27 +144,27 @@ The Relationship Managers (RMs) for a major travel company perform sales of holi
 
 ## Reflection
 
-In this section of the Design Thinking Approach, a reflection is created which outlines the assumptions and brainstormed ideas that our team has developed that were not made explicit in the assignment description. It is assumed that under the previous system, there are CMC telephone operatives who work under RMs. Their role is to take on customers calls and then depending on the nature of the call, direct the call to an appropriate RM if needed. It is also assumed that in the previous system, RMs have a database of numbers to make outbound calls from; however, they are cold calls to new potential customers. The functional requirements for the proposed system have been detailed in the project description and have been made clear by our team. However, non-functional requirements need to be assumed. The POV statements from the previous section are also used to assume How Might We (HMW) statements for each of the stakeholders involved. This is detailed below:
+The reflection outlines the assumptions and brainstormed ideas that our team has developed that were not made explicit in the assignment description. It is assumed that under the previous system, there are CMC telephone operatives who work under RMs. Their role is to take on customers calls and then depending on the nature of the call, direct the call to an appropriate RM if needed. It is also assumed that in the previous system, RMs have a database of numbers to make outbound calls from; however, they are cold calls to new potential customers. The functional requirements for the proposed system have been detailed in the project description and have been made clear by our team. However, non-functional requirements need to be assumed. The POV statements from the previous section are also used to assume How Might We (HMW) statements for each of the stakeholders involved. This is detailed below:
 
 ### Travel Company Owner
 
-HMW: Develop an information system to improve the operation of its in-house call management centre.
+HMW Develop an information system to improve the operation of its in-house call management centre.
 
 ### Relationship Managers
 
-HMW: HMW improve the process for RMs to connect with more appropriate potential customers
+HMW improve the process for RMs to connect with more appropriate potential customers
 
 ### Inbound End-customers
 
-HMW: HMW match customers to the most suitable relationship managers
+HMW match customers to the most suitable relationship managers
 
-HMW: HMW reduce waiting times or delays for inbound customers
+HMW reduce waiting times or delays for inbound customers
 
 ### Outbound End-Customers
 
-HMW: Direct calls from relationship managers to customers who are more likely to want to purchase holiday packages
+HMW Direct calls from relationship managers to customers who are more likely to want to purchase holiday packages
 
-HMW: HMW match appropriate Rms with the right skill-sets to outbound end-customers
+HMW match appropriate Rms with the right skill-sets to outbound end-customers
 
 ## Prioritised Backlog
 
