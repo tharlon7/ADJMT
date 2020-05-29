@@ -251,10 +251,8 @@ Poor requirements gathering entails that requirements are unclear, incomplete, t
 #
 ## **References**
 
-Anon, n.d., Study.com. viewed 28 May 2020, \&lt;https://study.com/academy/lesson/what-is-a-use-case-definition-examples.html\&gt;.
-
-explainagile.com 2019, explainagile.com. viewed 28 May 2020, \&lt;https://explainagile.com/blog/your-developers-are-stakeholders/\&gt;.
-
-UML, S. 2016, System Stakeholders - SYSTEM ANALYSIS AND DESIGN WITH UML, Studentstechlife.blogspot.com. viewed 28 May 2020, \&lt;https://studentstechlife.blogspot.com/2016/11/system-stakeholders-system-analysis-and.html\&gt;.
-
-What is a Backlog? | Definition, Overview, and Purpose n.d., Productplan.com. viewed 28 May 2020, \&lt;https://www.productplan.com/glossary/backlog/\&gt;.
+Anon, n.d., Study.com. viewed 28 May 2020, <https://study.com/academy/lesson/what-is-a-use-case-definition-examples.html>.
+explainagile.com 2019, explainagile.com. viewed 28 May 2020, <https://explainagile.com/blog/your-developers-are-stakeholders/>.
+Kaur, R., Dr Sengupta, J. 2011, ‘Software Process Models and Analysis on Failure of Software Development Projects’, International Journal of Scientific & Engineering Research, vol.2, issue 2, pp. 3
+UML, S. 2016, System Stakeholders - SYSTEM ANALYSIS AND DESIGN WITH UML, Studentstechlife.blogspot.com. viewed 28 May 2020, <https://studentstechlife.blogspot.com/2016/11/system-stakeholders-system-analysis-and.html>.
+What is a Backlog? | Definition, Overview, and Purpose n.d., Productplan.com. viewed 28 May 2020, <https://www.productplan.com/glossary/backlog/>.
