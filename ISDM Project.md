@@ -10,7 +10,7 @@ Jannatul Naim Apon – 13122383
 
 Mohammed Alvi – 12736195
 
-Main body word count: 1912
+Main body word count: 1994
 
 #
 ## **Table of Contents**
