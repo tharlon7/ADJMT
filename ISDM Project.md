@@ -240,19 +240,18 @@ For Inbound calls under the proposed system, customers dial a number reaching th
 
 ## Possible Effects if the Project Fails
 
-Although the proposed system has numerous potential advantages for the Travel Company, there can be very adverse effects if the project fails. Firstly, a system of this magnitude will be costly, and an appropriate budget and financial layout are necessary to make ends meet. 60-80% of all project failures can be directly attributed to poor requirements gathering, analysis, and management (Kaur & Sengupta, 2011). This also includes:
-•	An unrealistic schedule
-•	Inadequate testing, 
-•	Featuritis
-•	Miscommunication.
-Poor requirements gathering entails that requirements are unclear, incomplete, too general, and not testable. The requirements must be outlined correctly to prevent project failure. If the project fails due to an unrealistic schedule, i.e. too much work is crammed resulting in a less effective system, it can cause large problems for the Travel Company. If the project fails, customers may have preferred the old system and feel that their needs are not adequately satisfied by the Travel Company. This can lead to a negative image for the business and result in customers switching to another travel company. To prevent waiting until customers, complain or systems crash due to inadequate testing, it is imperative that proper testing during multiple phases of the project is conducted. Miscommunication between the RMs, Travel Company Owner and developers can also lead to project failure and more issues for the Travel Company. Furthermore, if the system is not properly implemented, RMs can have trouble adjusting to the new system, potentially decreasing the amount of holiday package sales. 
+Although the proposed system has numerous potential advantages for the Travel Company, there can be very adverse effects if the project fails. Firstly, a system of this magnitude will be costly, and an appropriate budget and financial layout are necessary to make ends meet. 60-80% of all project failures can be directly attributed to poor requirements gathering, analysis, and management (Kaur & Sengupta, 2011). This also includes an unrealistic schedule,inadequate testing, Featuritis,miscommunication. Poor requirements gathering entails that requirements are unclear, incomplete, too general, and not testable. The requirements must be outlined correctly to prevent project failure. If the project fails due to an unrealistic schedule, i.e. too much work is crammed resulting in a less effective system, it can cause large problems for the Travel Company. If the project fails, customers may have preferred the old system and feel that their needs are not adequately satisfied by the Travel Company. This can lead to a negative image for the business and result in customers switching to another travel company. To prevent waiting until customers, complain or systems crash due to inadequate testing, it is imperative that proper testing during multiple phases of the project is conducted. Miscommunication between the RMs, Travel Company Owner and developers can also lead to project failure and more issues for the Travel Company. Furthermore, if the system is not properly implemented, RMs can have trouble adjusting to the new system, potentially decreasing the amount of holiday package sales. 
  
 
 #
 ## **References**
 
 Anon, n.d., Study.com. viewed 28 May 2020, <https://study.com/academy/lesson/what-is-a-use-case-definition-examples.html>.
+
 explainagile.com 2019, explainagile.com. viewed 28 May 2020, <https://explainagile.com/blog/your-developers-are-stakeholders/>.
+
 Kaur, R., Dr Sengupta, J. 2011, ‘Software Process Models and Analysis on Failure of Software Development Projects’, International Journal of Scientific & Engineering Research, vol.2, issue 2, pp. 3
+
 UML, S. 2016, System Stakeholders - SYSTEM ANALYSIS AND DESIGN WITH UML, Studentstechlife.blogspot.com. viewed 28 May 2020, <https://studentstechlife.blogspot.com/2016/11/system-stakeholders-system-analysis-and.html>.
+
 What is a Backlog? | Definition, Overview, and Purpose n.d., Productplan.com. viewed 28 May 2020, <https://www.productplan.com/glossary/backlog/>.
