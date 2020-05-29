@@ -195,7 +195,7 @@ HMW match appropriate Rms with the right skill-sets to outbound end-customers
 
 ## User Stories
 
-- As a Travel Company Owner, I want the sales of holiday packages to increase So that the company&#39;s profits will increase
+- As a Travel Company Owner, I want the sales of holiday packages to increase so that the company&#39;s profits will increase
 - As an inbound customer, I want to speak to the most suitable RMs, so that I can conveniently find the best value holiday package.
 - As an inbound customer, I want to connect to an RM as fast as possible, so that I can be served promptly.
 - As an outbound, I want to speak to the most suitable RMs So that I can have improved customer service.
