@@ -17,9 +17,9 @@ Main body word count: 1994
 
 [Executive summary 3](#_Toc41524599)
 
-[Problem definition 3](#_Toc41524600)
+[Problem definition 4](#_Toc41524600)
 
-[Objectives 3](#_Toc41524601)
+[Objectives 4](#_Toc41524601)
 
 [Stakeholders 4](#_Toc41524602)
 
@@ -39,39 +39,39 @@ Main body word count: 1994
 
 [Reflection 9](#_Toc41524610)
 
-[Travel Company Owner 9](#_Toc41524611)
+[Travel Company Owner 10](#_Toc41524611)
 
-[Relationship Managers 9](#_Toc41524612)
+[Relationship Managers 10](#_Toc41524612)
 
-[Inbound End-customers 9](#_Toc41524613)
+[Inbound End-customers 10](#_Toc41524613)
 
-[Outbound End-Customers 9](#_Toc41524614)
+[Outbound End-Customers 10](#_Toc41524614)
 
 [Prioritised backlog 10](#_Toc41524615)
 
 [Functional Requirements 10](#_Toc41524616)
 
-[Non-functional Requirements 10](#_Toc41524617)
+[Non-functional Requirements 11](#_Toc41524617)
 
-[User stories 10](#_Toc41524618)
+[User stories 11](#_Toc41524618)
 
-[Work products, models, and descriptions 11](#_Toc41524619)
+[Work products, models, and descriptions 12](#_Toc41524619)
 
-[Use case diagrams 11](#_Toc41524620)
+[Use case diagrams 12](#_Toc41524620)
 
-[Activity diagrams 12](#_Toc41524621)
+[Activity diagrams 13](#_Toc41524621)
 
-[Class diagram 14](#_Toc41524622)
+[Class diagram 15](#_Toc41524622)
 
 [Collaborative diagram 15](#_Toc41524623)
 
-[Competitive advantages and possible effects of project failure 15](#_Toc41524624)
+[Competitive advantages and possible effects of project failure 16](#_Toc41524624)
 
-[Competitive Advantages 15](#_Toc41524625)
+[Competitive Advantages 16](#_Toc41524625)
 
-[Possible Effects if the Project Fails 16](#_Toc41524626)
+[Possible Effects if the Project Fails 17](#_Toc41524626)
 
-[References 16](#_Toc41524627)
+[References 18](#_Toc41524627)
 
 #
 ## **Executive Summary**
